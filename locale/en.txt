@@ -1,0 +1,32 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Raja Ravi Varma Art Gallery, Kilimanoor
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_4952C947_43D7_8867_41CD_AFE9FC4221A8.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4CDAC6_43D7_8859_41D0_B684CD1FDADC.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4F0002_43D7_B7D9_41BB_18EB5E92A959.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4F0372_43D6_9839_41C0_863C3CD58557.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4F264C_43D7_F869_41B5_F0A0446D2D2F.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4F368C_43D7_78E9_41B9_EFFB3276CA26.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4F9947_43D7_8867_41CB_02507888743E.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4FD32E_43D7_9829_41C7_43A7DA30DAEC.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4FDCE7_43D7_8827_41C5_7918C5E60F90.label = Raja Ravi Varma Art Gallery, Kilimanoor
+panorama_4A4FE9B9_43D7_882B_418E_438025D7FD1C.label = Raja Ravi Varma Art Gallery, Kilimanoor
